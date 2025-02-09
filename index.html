@@ -1,1 +1,78 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FPS & Video Test</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            display: flex; 
+            flex-direction: column;
+            align-items: center; 
+            justify-content: center; 
+            height: 100vh; 
+            margin: 0; 
+            background-color: #222; 
+            color: white;
+            text-align: center;
+        }
+        #fps { font-size: 16px; color: #ccc; }
+        #fps-value { font-size: 32px; font-weight: bold; color: #00ff00; }
+        video { width: 80%; max-width: 600px; margin-top: 20px; }
+        .long-text {
+            margin-top: 20px;
+            width: 90%;
+            max-width: 800px;
+            text-align: left;
+            color: #bbb;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <p id="fps">FPS: <span id="fps-value">0</span></p>
 
+  
+    <video autoplay loop muted>
+        <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+        Trình duyệt không hỗ trợ video.
+    </video>
+
+   
+    <div class="long-text">
+          run in background!
+          <br>
+          Use with games that lag when running independently.
+          <br>
+          Test on games using RPG Maker!
+          <br>
+          	github: binhpt567
+          <br>
+              yt: binhmod
+    </div>
+
+    <script>
+        let lastFrameTime = performance.now();
+        let frameCount = 0;
+        let fps = 0;
+
+        function updateFPS() {
+            const now = performance.now();
+            frameCount++;
+
+            if (now - lastFrameTime >= 1000) { 
+                fps = frameCount;
+                frameCount = 0;
+                lastFrameTime = now;
+                document.getElementById("fps-value").textContent = fps;
+            }
+
+            requestAnimationFrame(updateFPS);
+        }
+
+        requestAnimationFrame(updateFPS);
+    </script>
+</body>
+</html>
