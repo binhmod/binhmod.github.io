@@ -1,14 +1,37 @@
 <!DOCTYPE html>
-<html>
+<html lang="vi">
 <head>
   <meta charset="UTF-8">
-  <title>Get Shortened URL</title>
+  <title>Kiểm tra Key & Tạo Link</title>
 </head>
 <body>
-  <h2>Shortened Link:</h2>
-  <p id="result">Đang xử lý...</p>
+  <h2>Nhập Key để xác nhận</h2>
+
+  <!-- Ô nhập key -->
+  <input type="text" id="inputKey" placeholder="Nhập key ở đây" />
+
+  <!-- Nút lấy key -->
+  <button onclick="generateLink()">Lấy Key</button>
+
+  <!-- Nút xác nhận key -->
+  <button onclick="verifyKey()">Xác nhận Key</button>
+
+  <!-- Hiển thị kết quả xác nhận -->
+  <p id="verifyResult"></p>
+
+  <!-- Hiển thị link đã tạo -->
+  <p id="linkResult"></p>
+
+  <!-- Nút link phụ -->
+  <button onclick="showExtraLink()">Link Phụ</button>
+
+  <!-- Hiển thị link phụ -->
+  <p id="extraLink"></p>
 
   <script>
+    let randomKey = "";
+    let finalLink = "";
+
     function getRandomText(length, characters) {
       let result = '';
       for (let i = 0; i < length; i++) {
@@ -17,37 +40,35 @@
       return result;
     }
 
-    async function generateAndFetchShortLink() {
-      const apiKey = "https://link4m.co/api-shorten/v2?api=67b17a05cb842e19e02528d3&url=";
-      const randomKey = getRandomText(15, "eWV1bWVvbGF6eQ");
-      const linkGetKey = "https://binhpt567.github.io/ScriptStarter/getKey?key=" + randomKey;
-      const linkKey = apiKey + encodeURIComponent(linkGetKey);
+    function generateLink() {
+      // Tạo randomKey
+      randomKey = getRandomText(15, "eWV1bWVvbGF6eQ");
+      const getKeyUrl = "https://binhpt567.github.io/ScriptStarter/getKey?key=" + randomKey;
+      finalLink = "https://link4m.co/st?api=67b17a05cb842e19e02528d3&url=" + encodeURIComponent(getKeyUrl);
 
-      console.log("Link gửi API:", linkKey); // Kiểm tra link gửi API
+      document.getElementById("linkResult").innerHTML = `Link đã tạo: <a href="${finalLink}" target="_blank">${finalLink}</a>`;
+      document.getElementById("verifyResult").textContent = "";
+    }
 
-      try {
-        const response = await fetch(linkKey);
+    function verifyKey() {
+      const userInput = document.getElementById("inputKey").value;
+      const result = document.getElementById("verifyResult");
 
-        // Kiểm tra mã phản hồi
-        if (!response.ok) {
-          throw new Error("API call failed with status " + response.status);
-        }
+      if (!randomKey) {
+        result.textContent = "Bạn chưa tạo key!";
+        return;
+      }
 
-        const data = await response.json();
-        console.log("Response từ API:", data); // In dữ liệu JSON trả về để kiểm tra
-
-        if (data.status === "success") {
-          document.getElementById("result").innerHTML = `<a href="${data.shortenedUrl}" target="_blank">${data.shortenedUrl}</a>`;
-        } else {
-          document.getElementById("result").textContent = "Lỗi: Không thể rút gọn link.";
-        }
-      } catch (error) {
-        document.getElementById("result").textContent = "Lỗi khi gọi API.";
-        console.error("Error:", error);
+      if (userInput === randomKey) {
+        result.textContent = "Key đúng!";
+      } else {
+        result.textContent = "Key sai!";
       }
     }
 
-    generateAndFetchShortLink();
+    function showExtraLink() {
+      document.getElementById("extraLink").innerHTML = `<a href="https://example.com" target="_blank">https://example.com</a>`;
+    }
   </script>
 </body>
 </html>
