@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Get Shortened URL</title>
+</head>
+<body>
+  <h2>Shortened Link:</h2>
+  <p id="result">Đang xử lý...</p>
+
+  <script>
+    function getRandomText(length, characters) {
+      let result = '';
+      for (let i = 0; i < length; i++) {
+        result += characters.charAt(Math.floor(Math.random() * characters.length));
+      }
+      return result;
+    }
+
+    async function generateAndFetchShortLink() {
+      const apiKey = "https://link4m.co/api-shorten/v2?api=67b17a05cb842e19e02528d3&url=";
+      const randomKey = getRandomText(15, "eWV1bWVvbGF6eQ");
+      const linkGetKey = "https://binhpt567.github.io/ScriptStarter/getKey?key=" + randomKey;
+      const linkKey = apiKey + encodeURIComponent(linkGetKey);
+
+      console.log("Link gửi API:", linkKey); // Kiểm tra link gửi API
+
+      try {
+        const response = await fetch(linkKey);
+
+        // Kiểm tra mã phản hồi
+        if (!response.ok) {
+          throw new Error("API call failed with status " + response.status);
+        }
+
+        const data = await response.json();
+        console.log("Response từ API:", data); // In dữ liệu JSON trả về để kiểm tra
+
+        if (data.status === "success") {
+          document.getElementById("result").innerHTML = `<a href="${data.shortenedUrl}" target="_blank">${data.shortenedUrl}</a>`;
+        } else {
+          document.getElementById("result").textContent = "Lỗi: Không thể rút gọn link.";
+        }
+      } catch (error) {
+        document.getElementById("result").textContent = "Lỗi khi gọi API.";
+        console.error("Error:", error);
+      }
+    }
+
+    generateAndFetchShortLink();
+  </script>
+</body>
+</html>
