@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Vip 1",
+    "version": "v1",
+    "price": 20
+  },
+  {
+    "name": "Vip 2",
+    "version": "v2",
+    "price": 50
+  }
+]
