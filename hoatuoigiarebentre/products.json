@@ -1,0 +1,56 @@
+{
+  "shop_config": {
+    "shop_name": "Hoa Tươi Giá Rẻ Bến Tre",
+    "phone": "0333330045",
+    "zalo_phone": "0333330045",
+    "facebook_username": "vungtau.hoatuoi.9",
+    "messenger_username": "vungtau.hoatuoi.9",
+    "address": "Thành phố Bến Tre",
+    "gmail": "dung33045@gmail.com",
+    "open_hours": "07:00 – 21:00 (Hằng ngày)"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Bó Hoa Hồng Đỏ Tình Yêu Son Sắt",
+      "type": "Sinh Nhật",
+      "price": "350.000đ",
+      "image": "images/hoa-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chậu Lan Hồ Điệp Trắng Cao Cấp",
+      "type": "Lan Hồ Điệp",
+      "price": "1.500.000đ",
+      "image": "images/hoa-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Kệ Hoa Chia Buồn Thành Kính Phân Ưu",
+      "type": "Chia Buồn",
+      "price": "700.000đ",
+      "image": "images/hoa-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bó Hoa Baby Hồng Ngọc Ngào",
+      "type": "Sinh Nhật",
+      "price": "250.000đ",
+      "image": "images/hoa-4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Giỏ Hoa Quả Tươi Sum Vầy Quà Tặng",
+      "type": "Giỏ Hoa Quả",
+      "price": "600.000đ",
+      "image": "images/hoa-5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Kệ Hoa Chúc Mừng Khai Trương Phát Tài",
+      "type": "Chúc Mừng",
+      "price": "900.000đ",
+      "image": "images/hoa-6.jpg"
+    }
+  ]
+}
