@@ -58,6 +58,13 @@
       "displayName": "OK",
       "image": "images\/ok\/cover.jpg",
       "icon_html": ""
+    },
+    {
+      "id": "cat-ko",
+      "name": "Ko",
+      "displayName": "Ko",
+      "image": "images\/ko\/cover.jpg",
+      "icon_html": ""
     }
   ],
   "products": [
