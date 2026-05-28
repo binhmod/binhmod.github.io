@@ -102,6 +102,13 @@
       "type": "Lan Hồ Điệp",
       "price": "280000đ",
       "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/lanhoiep\/hoa_1779959650243.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Hoa buồn",
+      "type": "Chia Buồn",
+      "price": "300000đ",
+      "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/chiabuon\/hoa_1779990337072.webp"
     }
   ]
 }
