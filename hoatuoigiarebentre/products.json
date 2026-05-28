@@ -65,6 +65,13 @@
       "displayName": "Ko",
       "image": "images\/ko\/cover.jpg",
       "icon_html": ""
+    },
+    {
+      "id": "cat-mmb",
+      "name": "Mmb",
+      "displayName": "Mmb",
+      "image": "images\/mmb\/cover.jpg",
+      "icon_html": ""
     }
   ],
   "products": [
