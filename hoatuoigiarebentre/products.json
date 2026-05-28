@@ -16,29 +16,7 @@
       "displayName": "Tất cả",
       "image": "",
       "icon_html": "<i class=\"fa-solid fa-border-all\" style=\"font-size: 22px; color: #2e7d32;\"><\/i>"
-    },
-    {
-      "id": "cat-sinhnhat",
-      "name": "Sinh nhật",
-      "displayName": "Sinh nhật",
-      "image": "images\/sinhnhat\/cover.jpg",
-      "icon_html": ""
-    },
-    {
-      "id": "cat-hoakhaitruong",
-      "name": "Hoa Khai trương",
-      "displayName": "Hoa Khai trương",
-      "image": "images\/hoakhaitruong\/cover.jpg",
-      "icon_html": ""
     }
   ],
-  "products": [
-    {
-      "id": 1,
-      "name": "Hoa khai trương",
-      "type": "Hoa Khai trương",
-      "price": "678.000đ",
-      "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/hoakhaitruong\/hoa_1779993565658.webp"
-    }
-  ]
+  "products": []
 }
