@@ -109,6 +109,13 @@
       "type": "Chia Buồn",
       "price": "300000đ",
       "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/chiabuon\/hoa_1779990337072.webp"
+    },
+    {
+      "id": 7,
+      "name": "Hoa vui",
+      "type": "Ko",
+      "price": "600000đ",
+      "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/ko\/hoa_1779991037813.webp"
     }
   ]
 }
