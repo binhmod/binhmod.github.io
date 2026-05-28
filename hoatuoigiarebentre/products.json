@@ -23,6 +23,13 @@
       "displayName": "Sinh nhật",
       "image": "images\/sinhnhat\/cover.jpg",
       "icon_html": ""
+    },
+    {
+      "id": "cat-hoakhaitruong",
+      "name": "Hoa Khai trương",
+      "displayName": "Hoa Khai trương",
+      "image": "images\/hoakhaitruong\/cover.jpg",
+      "icon_html": ""
     }
   ],
   "products": []
