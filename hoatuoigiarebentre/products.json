@@ -15,7 +15,14 @@
       "name": "all",
       "displayName": "Tất cả",
       "image": "",
-      "icon_html": "<i class=\"fa-solid fa-border-all\" style=\"font-size: 22px; color: #2e7d32;\"></i>"
+      "icon_html": "<i class=\"fa-solid fa-border-all\" style=\"font-size: 22px; color: #2e7d32;\"><\/i>"
+    },
+    {
+      "id": "cat-sinhnhat",
+      "name": "Sinh nhật",
+      "displayName": "Sinh nhật",
+      "image": "images\/sinhnhat\/cover.jpg",
+      "icon_html": ""
     }
   ],
   "products": []
