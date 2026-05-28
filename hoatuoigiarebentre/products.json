@@ -116,6 +116,13 @@
       "type": "Ko",
       "price": "600000đ",
       "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/ko\/hoa_1779991037813.webp"
+    },
+    {
+      "id": 8,
+      "name": "Hoa oli",
+      "type": "Sinh Nhật",
+      "price": "100.000đ",
+      "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/sinhnhat\/hoa_1779991667395.webp"
     }
   ]
 }
