@@ -74,6 +74,13 @@
       "type": "Sinh Nhật",
       "price": "335đ",
       "image": "images\/new.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Hoa Xanh",
+      "type": "Sinh Nhật",
+      "price": "300000đ",
+      "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/sinhnhat\/hoa_1779950933597.jpg"
     }
   ]
 }
