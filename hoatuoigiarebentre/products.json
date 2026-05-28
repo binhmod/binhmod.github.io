@@ -72,6 +72,13 @@
       "displayName": "Mmb",
       "image": "images\/mmb\/cover.jpg",
       "icon_html": ""
+    },
+    {
+      "id": "cat-ll",
+      "name": "Ll",
+      "displayName": "Ll",
+      "image": "images\/ll\/cover.jpg",
+      "icon_html": ""
     }
   ],
   "products": [
