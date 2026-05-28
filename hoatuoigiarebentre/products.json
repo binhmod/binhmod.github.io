@@ -5,10 +5,54 @@
     "zalo_phone": "0333330045",
     "facebook_username": "vungtau.hoatuoi.9",
     "messenger_username": "vungtau.hoatuoi.9",
-    "address": "Thành phố Bến Tre",
+    "address": "Thành phố Bến Tre cũ",
     "gmail": "dung33045@gmail.com",
     "open_hours": "07:00 – 21:00 (Hằng ngày)"
   },
+  "categories": [
+    {
+      "id": "cat-all",
+      "name": "all",
+      "displayName": "Tất cả",
+      "image": "", 
+      "icon_html": "<i class=\"fa-solid fa-border-all\" style=\"font-size: 22px; color: #2e7d32;\"></i>"
+    },
+    {
+      "id": "cat-sinhnhat",
+      "name": "Sinh Nhật",
+      "displayName": "Hoa Sinh Nhật",
+      "image": "images/cat-sinhnhat.jpg",
+      "icon_html": ""
+    },
+    {
+      "id": "cat-lanhodiep",
+      "name": "Lan Hồ Điệp",
+      "displayName": "Lan Hồ Điệp",
+      "image": "images/cat-lanhodiep.jpg",
+      "icon_html": ""
+    },
+    {
+      "id": "cat-chiabuon",
+      "name": "Chia Buồn",
+      "displayName": "Hoa Chia Buồn",
+      "image": "images/cat-chiabuon.jpg",
+      "icon_html": ""
+    },
+    {
+      "id": "cat-hoaqua",
+      "name": "Giỏ Hoa Quả",
+      "displayName": "Giỏ Hoa Quả",
+      "image": "images/cat-hoaqua.jpg",
+      "icon_html": ""
+    },
+    {
+      "id": "cat-chucmung",
+      "name": "Chúc Mừng",
+      "displayName": "Hoa Chúc Mừng",
+      "image": "images/cat-chucmung.jpg",
+      "icon_html": ""
+    }
+  ],
   "products": [
     {
       "id": 1,
@@ -23,34 +67,6 @@
       "type": "Lan Hồ Điệp",
       "price": "1.500.000đ",
       "image": "images/hoa-2.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Kệ Hoa Chia Buồn Thành Kính Phân Ưu",
-      "type": "Chia Buồn",
-      "price": "700.000đ",
-      "image": "images/hoa-3.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Bó Hoa Baby Hồng Ngọc Ngào",
-      "type": "Sinh Nhật",
-      "price": "250.000đ",
-      "image": "images/hoa-4.jpg"
-    },
-    {
-      "id": 5,
-      "name": "Giỏ Hoa Quả Tươi Sum Vầy Quà Tặng",
-      "type": "Giỏ Hoa Quả",
-      "price": "600.000đ",
-      "image": "images/hoa-5.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Kệ Hoa Chúc Mừng Khai Trương Phát Tài",
-      "type": "Chúc Mừng",
-      "price": "900.000đ",
-      "image": "images/hoa-6.jpg"
     }
   ]
 }
