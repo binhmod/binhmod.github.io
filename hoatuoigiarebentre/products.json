@@ -14,42 +14,42 @@
       "id": "cat-all",
       "name": "all",
       "displayName": "Tất cả",
-      "image": "", 
-      "icon_html": "<i class=\"fa-solid fa-border-all\" style=\"font-size: 22px; color: #2e7d32;\"></i>"
+      "image": "",
+      "icon_html": "<i class=\"fa-solid fa-border-all\" style=\"font-size: 22px; color: #2e7d32;\"><\/i>"
     },
     {
       "id": "cat-sinhnhat",
       "name": "Sinh Nhật",
       "displayName": "Hoa Sinh Nhật",
-      "image": "images/cat-sinhnhat.jpg",
+      "image": "images\/cat-sinhnhat.jpg",
       "icon_html": ""
     },
     {
       "id": "cat-lanhodiep",
       "name": "Lan Hồ Điệp",
       "displayName": "Lan Hồ Điệp",
-      "image": "images/cat-lanhodiep.jpg",
+      "image": "images\/cat-lanhodiep.jpg",
       "icon_html": ""
     },
     {
       "id": "cat-chiabuon",
       "name": "Chia Buồn",
       "displayName": "Hoa Chia Buồn",
-      "image": "images/cat-chiabuon.jpg",
+      "image": "images\/cat-chiabuon.jpg",
       "icon_html": ""
     },
     {
       "id": "cat-hoaqua",
       "name": "Giỏ Hoa Quả",
       "displayName": "Giỏ Hoa Quả",
-      "image": "images/cat-hoaqua.jpg",
+      "image": "images\/cat-hoaqua.jpg",
       "icon_html": ""
     },
     {
       "id": "cat-chucmung",
       "name": "Chúc Mừng",
       "displayName": "Hoa Chúc Mừng",
-      "image": "images/cat-chucmung.jpg",
+      "image": "images\/cat-chucmung.jpg",
       "icon_html": ""
     }
   ],
@@ -59,14 +59,21 @@
       "name": "Bó Hoa Hồng Đỏ Tình Yêu Son Sắt",
       "type": "Sinh Nhật",
       "price": "350.000đ",
-      "image": "images/hoa-1.jpg"
+      "image": "images\/hoa-1.jpg"
     },
     {
       "id": 2,
       "name": "Chậu Lan Hồ Điệp Trắng Cao Cấp",
       "type": "Lan Hồ Điệp",
       "price": "1.500.000đ",
-      "image": "images/hoa-2.jpg"
+      "image": "images\/hoa-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hoa1",
+      "type": "Sinh Nhật",
+      "price": "335đ",
+      "image": "images\/new.jpg"
     }
   ]
 }
