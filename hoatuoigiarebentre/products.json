@@ -51,6 +51,13 @@
       "displayName": "Hoa Chúc Mừng",
       "image": "images\/cat-chucmung.jpg",
       "icon_html": ""
+    },
+    {
+      "id": "cat-ok",
+      "name": "OK",
+      "displayName": "OK",
+      "image": "images\/ok\/cover.jpg",
+      "icon_html": ""
     }
   ],
   "products": [
