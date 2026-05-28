@@ -151,6 +151,13 @@
       "type": "Mmb",
       "price": "153.000đ",
       "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/mmb\/hoa_1779992347132.webp"
+    },
+    {
+      "id": 11,
+      "name": "ok",
+      "type": "all",
+      "price": "345.000đ",
+      "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/general\/hoa_1779993080712.webp"
     }
   ]
 }
