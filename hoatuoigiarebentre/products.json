@@ -130,6 +130,13 @@
       "type": "Sinh Nhật",
       "price": "100.000đ",
       "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/sinhnhat\/hoa_1779991667395.webp"
+    },
+    {
+      "id": 9,
+      "name": "Hoa Ok",
+      "type": "Mmb",
+      "price": "250.000đ",
+      "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/mmb\/hoa_1779992060290.webp"
     }
   ]
 }
