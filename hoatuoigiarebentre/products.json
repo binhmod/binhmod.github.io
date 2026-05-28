@@ -137,6 +137,13 @@
       "type": "Mmb",
       "price": "250.000đ",
       "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/mmb\/hoa_1779992060290.webp"
+    },
+    {
+      "id": 10,
+      "name": "hoa đỏ",
+      "type": "Mmb",
+      "price": "153.000đ",
+      "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/mmb\/hoa_1779992347132.webp"
     }
   ]
 }
