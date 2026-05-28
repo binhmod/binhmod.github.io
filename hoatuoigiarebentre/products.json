@@ -32,5 +32,13 @@
       "icon_html": ""
     }
   ],
-  "products": []
+  "products": [
+    {
+      "id": 1,
+      "name": "Hoa khai trương",
+      "type": "Hoa Khai trương",
+      "price": "678.000đ",
+      "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/hoakhaitruong\/hoa_1779993565658.webp"
+    }
+  ]
 }
