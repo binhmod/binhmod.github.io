@@ -88,6 +88,13 @@
       "type": "Sinh Nhật",
       "price": "300000đ",
       "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/sinhnhat\/hoa_1779950933597.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Hoa hồ điệp",
+      "type": "Lan Hồ Điệp",
+      "price": "280000đ",
+      "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/lanhoiep\/hoa_1779959650243.jpg"
     }
   ]
 }
