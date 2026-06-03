@@ -16,6 +16,13 @@
       "displayName": "Tất cả",
       "image": "",
       "icon_html": "<i class=\"fa-solid fa-border-all\" style=\"font-size: 22px; color: #2e7d32;\"><\/i>"
+    },
+    {
+      "id": "cat-hoachucmungkhaitruong",
+      "name": "Hoa chúc mừng khai trương",
+      "displayName": "Hoa chúc mừng khai trương",
+      "image": "images\/hoachucmungkhaitruong\/cover.jpg",
+      "icon_html": ""
     }
   ],
   "products": []
