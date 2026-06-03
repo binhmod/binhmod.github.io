@@ -25,5 +25,13 @@
       "icon_html": ""
     }
   ],
-  "products": []
+  "products": [
+    {
+      "id": 1,
+      "name": "Ok",
+      "type": "Hoa chúc mừng khai trương",
+      "price": "450.000đ",
+      "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/hoachucmungkhaitruong\/hoa_1780494832776.webp"
+    }
+  ]
 }
