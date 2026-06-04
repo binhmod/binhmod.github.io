@@ -16,27 +16,8 @@
       "displayName": "Tất cả",
       "image": "",
       "icon_html": "<i class=\"fa-solid fa-border-all\" style=\"font-size: 22px; color: #2e7d32;\"><\/i>"
-    },
-    {
-      "id": "cat-hoachucmungkhaitruong",
-      "name": "Hoa chúc mừng khai trương",
-      "displayName": "Hoa chúc mừng khai trương",
-      "image": "images\/hoachucmungkhaitruong\/cover.jpg",
-      "icon_html": ""
     }
   ],
   "products": [
-    {
-      "id": 1,
-      "name": "Ok",
-      "type": "Hoa chúc mừng khai trương",
-      "price": "450.000đ",
-      "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/hoachucmungkhaitruong\/hoa_1780494832776.webp"
-    },
-    {
-      "id": 2,
-      "type": "Hoa chúc mừng khai trương",
-      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1780556880\/hoachucmungkhaitruong\/bngsashjnaurgkfkawk8.webp"
-    }
   ]
 }
