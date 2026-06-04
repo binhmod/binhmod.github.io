@@ -32,6 +32,11 @@
       "type": "Hoa chúc mừng khai trương",
       "price": "450.000đ",
       "image": "https:\/\/gitlab.com\/binhmod\/hoatuoigiarebentre\/-\/raw\/main\/images\/hoachucmungkhaitruong\/hoa_1780494832776.webp"
+    },
+    {
+      "id": 2,
+      "type": "Hoa chúc mừng khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1780556880\/hoachucmungkhaitruong\/bngsashjnaurgkfkawk8.webp"
     }
   ]
 }
