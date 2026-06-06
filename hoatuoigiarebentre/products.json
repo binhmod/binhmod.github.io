@@ -7,7 +7,7 @@
     "messenger_username": "vungtau.hoatuoi.9",
     "address": "Thành phố Bến Tre cũ",
     "gmail": "dung33045@gmail.com",
-    "open_hours": "07:00 – 21:00 (Hằng ngày)"
+    "open_hours": "24/7 (Hằng ngày)"
   },
   "categories": [
     {
@@ -15,7 +15,7 @@
       "name": "all",
       "displayName": "Tất cả",
       "image": "",
-      "icon_html": "<i class=\"fa-solid fa-border-all\" style=\"font-size: 22px; color: #2e7d32;\"><\/i>"
+      "icon_html": "<i class=\"fa-solid fa-border-all\" style=\"font-size: 22px; color: #2e7d32;\"></i>"
     },
     {
       "id": "cat-hoakhaitruong",
@@ -29,27 +29,27 @@
     {
       "id": 1,
       "type": "Hoa khai trương",
-      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1780754074\/hoakhaitruong\/avaqgxcayxdxmcririhp.webp"
+      "image": "https://res.cloudinary.com/dpljns4w0/image/upload/v1780754074/hoakhaitruong/avaqgxcayxdxmcririhp.webp"
     },
     {
       "id": 2,
       "type": "Hoa khai trương",
-      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1780754078\/hoakhaitruong\/zttlpzhbq8sfyhzznxdh.webp"
+      "image": "https://res.cloudinary.com/dpljns4w0/image/upload/v1780754078/hoakhaitruong/zttlpzhbq8sfyhzznxdh.webp"
     },
     {
       "id": 3,
       "type": "Hoa khai trương",
-      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1780754083\/hoakhaitruong\/grv6z5twwb37ftesmkq8.webp"
+      "image": "https://res.cloudinary.com/dpljns4w0/image/upload/v1780754083/hoakhaitruong/grv6z5twwb37ftesmkq8.webp"
     },
     {
       "id": 4,
       "type": "Hoa khai trương",
-      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1780754088\/hoakhaitruong\/rrwvpnobd39ikoionwjp.webp"
+      "image": "https://res.cloudinary.com/dpljns4w0/image/upload/v1780754088/hoakhaitruong/rrwvpnobd39ikoionwjp.webp"
     },
     {
       "id": 5,
       "type": "Hoa khai trương",
-      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1780754093\/hoakhaitruong\/toi3fqnm0dkbludippu7.webp"
+      "image": "https://res.cloudinary.com/dpljns4w0/image/upload/v1780754093/hoakhaitruong/toi3fqnm0dkbludippu7.webp"
     }
   ]
 }
