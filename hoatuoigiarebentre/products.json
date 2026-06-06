@@ -16,8 +16,14 @@
       "displayName": "Tất cả",
       "image": "",
       "icon_html": "<i class=\"fa-solid fa-border-all\" style=\"font-size: 22px; color: #2e7d32;\"><\/i>"
+    },
+    {
+      "id": "cat-hoakhaitruong",
+      "name": "Hoa khai trương",
+      "displayName": "Hoa khai trương",
+      "image": "",
+      "icon_html": ""
     }
   ],
-  "products": [
-  ]
+  "products": []
 }
