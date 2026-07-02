@@ -23,6 +23,13 @@
       "displayName": "Hoa khai trương",
       "image": "",
       "icon_html": ""
+    },
+    {
+      "id": "cat-hoacuoi",
+      "name": "Hoa cưới",
+      "displayName": "Hoa cưới",
+      "image": "",
+      "icon_html": ""
     }
   ],
   "products": [
