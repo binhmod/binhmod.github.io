@@ -30,6 +30,13 @@
       "displayName": "Hoa cưới",
       "image": "",
       "icon_html": ""
+    },
+    {
+      "id": "cat-hoavieng",
+      "name": "Hoa viếng",
+      "displayName": "Hoa viếng",
+      "image": "",
+      "icon_html": ""
     }
   ],
   "products": [
@@ -62,26 +69,6 @@
       "id": 6,
       "type": "Hoa khai trương",
       "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1780757595\/hoakhaitruong\/zam3wo2e37gci5kq7x4l.webp"
-    },
-    {
-      "id": 7,
-      "type": "Hoa khai trương",
-      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958177\/hoakhaitruong\/uqzbmicce6lhq1eobo55.webp"
-    },
-    {
-      "id": 8,
-      "type": "Hoa khai trương",
-      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958182\/hoakhaitruong\/g3mawigyoey8qpd5qxks.webp"
-    },
-    {
-      "id": 9,
-      "type": "Hoa khai trương",
-      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958187\/hoakhaitruong\/bhpt7cowsygrazcx5pdi.webp"
-    },
-    {
-      "id": 10,
-      "type": "Hoa khai trương",
-      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958191\/hoakhaitruong\/jx4xuoufyvrr5sdrrwcv.webp"
     }
   ]
 }
