@@ -30,20 +30,6 @@
       "displayName": "Hoa cưới",
       "image": "",
       "icon_html": ""
-    },
-    {
-      "id": "cat-hoavieng",
-      "name": "Hoa viếng",
-      "displayName": "Hoa viếng",
-      "image": "",
-      "icon_html": ""
-    },
-    {
-      "id": "cat-bohoatang",
-      "name": "Bó hoa tặng",
-      "displayName": "Bó hoa tặng",
-      "image": "",
-      "icon_html": ""
     }
   ],
   "products": [
@@ -76,6 +62,296 @@
       "id": 6,
       "type": "Hoa khai trương",
       "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1780757595\/hoakhaitruong\/zam3wo2e37gci5kq7x4l.webp"
+    },
+    {
+      "id": 7,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958177\/hoakhaitruong\/uqzbmicce6lhq1eobo55.webp"
+    },
+    {
+      "id": 8,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958182\/hoakhaitruong\/g3mawigyoey8qpd5qxks.webp"
+    },
+    {
+      "id": 9,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958187\/hoakhaitruong\/bhpt7cowsygrazcx5pdi.webp"
+    },
+    {
+      "id": 10,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958191\/hoakhaitruong\/jx4xuoufyvrr5sdrrwcv.webp"
+    },
+    {
+      "id": 11,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958195\/hoakhaitruong\/jrrcyprk3ps26h1ulxnk.webp"
+    },
+    {
+      "id": 12,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958197\/hoakhaitruong\/vgwuseuqb1obgzbj0aqt.webp"
+    },
+    {
+      "id": 13,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958202\/hoakhaitruong\/gicinlg5fcjgn8cqokoi.webp"
+    },
+    {
+      "id": 14,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958205\/hoakhaitruong\/xb3wujqxzqlmhztfhlq9.webp"
+    },
+    {
+      "id": 15,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958211\/hoakhaitruong\/ufpqmpdpdgojh5rv1bmc.webp"
+    },
+    {
+      "id": 16,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958216\/hoakhaitruong\/irz5x1aheppmtrzkiiky.webp"
+    },
+    {
+      "id": 17,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958220\/hoakhaitruong\/dwnxwwsp5f2qdgzklwjz.webp"
+    },
+    {
+      "id": 18,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958223\/hoakhaitruong\/zhteqzarjomtsgprywcq.webp"
+    },
+    {
+      "id": 19,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958227\/hoakhaitruong\/azldt7shwowuxko2nzks.webp"
+    },
+    {
+      "id": 20,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958230\/hoakhaitruong\/rq0tegyxy4g3ghpqn8dp.webp"
+    },
+    {
+      "id": 21,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958233\/hoakhaitruong\/gsdfuem33knb5ajoxr19.webp"
+    },
+    {
+      "id": 22,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958236\/hoakhaitruong\/sehyycwfdtp55s4jmmtu.webp"
+    },
+    {
+      "id": 23,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958240\/hoakhaitruong\/shzn8pceyfup1lonewzv.webp"
+    },
+    {
+      "id": 24,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958243\/hoakhaitruong\/d5qiyspdbuznrgwzfvof.webp"
+    },
+    {
+      "id": 25,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958247\/hoakhaitruong\/hzesmhohknbwmswfcyey.webp"
+    },
+    {
+      "id": 26,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958252\/hoakhaitruong\/ineyrahvyynagvemvyth.webp"
+    },
+    {
+      "id": 27,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958256\/hoakhaitruong\/yunryxfalajo3nv89m37.webp"
+    },
+    {
+      "id": 28,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958261\/hoakhaitruong\/ioblrxbmgzmpulnsd3km.webp"
+    },
+    {
+      "id": 29,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958265\/hoakhaitruong\/p5ppe1ovupkpuywzcund.webp"
+    },
+    {
+      "id": 30,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958269\/hoakhaitruong\/wgic7ditnkhz8ywj2rft.webp"
+    },
+    {
+      "id": 31,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958272\/hoakhaitruong\/tq38xfgwjtu7c4b0zpk8.webp"
+    },
+    {
+      "id": 32,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958277\/hoakhaitruong\/crk49etbmmslevva7ipm.webp"
+    },
+    {
+      "id": 33,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958281\/hoakhaitruong\/uetngi4nvrw3migad0nt.webp"
+    },
+    {
+      "id": 34,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958286\/hoakhaitruong\/o5j6qap0ajgpzxqcxwtr.webp"
+    },
+    {
+      "id": 35,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958290\/hoakhaitruong\/mkqia0fg7hvsiugb6vd0.webp"
+    },
+    {
+      "id": 36,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958293\/hoakhaitruong\/mviwkoe3t4waje1fkv97.webp"
+    },
+    {
+      "id": 37,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958297\/hoakhaitruong\/gz00johd0fgcke7hrbmf.webp"
+    },
+    {
+      "id": 38,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958302\/hoakhaitruong\/selxrifg3lbeyo0gtoq2.webp"
+    },
+    {
+      "id": 39,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958306\/hoakhaitruong\/boezu5tpthqjlodtry82.webp"
+    },
+    {
+      "id": 40,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958311\/hoakhaitruong\/d6mahzhwouga8fgprms7.webp"
+    },
+    {
+      "id": 41,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958316\/hoakhaitruong\/my6qkj12mnqpvrvvahwn.webp"
+    },
+    {
+      "id": 42,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958321\/hoakhaitruong\/qdmrn7dkfdb9ny6zsymi.webp"
+    },
+    {
+      "id": 43,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958326\/hoakhaitruong\/j07yi9ojtkjsqonfhk2e.webp"
+    },
+    {
+      "id": 44,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958331\/hoakhaitruong\/ri1oy0dshsw8nq78ooy3.webp"
+    },
+    {
+      "id": 45,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958335\/hoakhaitruong\/wnsoijevazki3d8bq3nl.webp"
+    },
+    {
+      "id": 46,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958341\/hoakhaitruong\/rzpo8xbgrq0fmtzxxdwa.webp"
+    },
+    {
+      "id": 47,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958346\/hoakhaitruong\/jiw935usqhkjh1dt8f3z.webp"
+    },
+    {
+      "id": 48,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958351\/hoakhaitruong\/ws4pes0jio07dtgqagre.webp"
+    },
+    {
+      "id": 49,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958356\/hoakhaitruong\/dlwnqyokymffrhcqcxyp.webp"
+    },
+    {
+      "id": 50,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958362\/hoakhaitruong\/re5kb7vcp6k8tte7myyk.webp"
+    },
+    {
+      "id": 51,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958366\/hoakhaitruong\/bidfla2bosyzbcoerxjv.webp"
+    },
+    {
+      "id": 52,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958371\/hoakhaitruong\/wycjddhakch9zpqn8hsh.webp"
+    },
+    {
+      "id": 53,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958376\/hoakhaitruong\/vlkkxmshx4rplflsxpbm.webp"
+    },
+    {
+      "id": 54,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958381\/hoakhaitruong\/hwqhdsooycjqx5w4qz5p.webp"
+    },
+    {
+      "id": 55,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958386\/hoakhaitruong\/jyxuemg5donxsivkgqop.webp"
+    },
+    {
+      "id": 56,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958392\/hoakhaitruong\/ulvccdmqbl2k8yc0bcqe.webp"
+    },
+    {
+      "id": 57,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958397\/hoakhaitruong\/f7aqoxn4edzgbogbtipu.webp"
+    },
+    {
+      "id": 58,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958402\/hoakhaitruong\/omoyneekusmv0tzwh2cc.webp"
+    },
+    {
+      "id": 59,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958407\/hoakhaitruong\/mhty7gso3ztdvhvgbjup.webp"
+    },
+    {
+      "id": 60,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958414\/hoakhaitruong\/v0wgheblrji9envgv4do.webp"
+    },
+    {
+      "id": 61,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958420\/hoakhaitruong\/am6gbaslnzaxamrq4wtk.webp"
+    },
+    {
+      "id": 62,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958424\/hoakhaitruong\/z4pgbdvzlf1mabqpzdqs.webp"
+    },
+    {
+      "id": 63,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958429\/hoakhaitruong\/bufgzupfb8h5pjmdjhnv.webp"
+    },
+    {
+      "id": 64,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1782958434\/hoakhaitruong\/a4muaisclbce1z90y5ki.webp"
     }
   ]
 }
