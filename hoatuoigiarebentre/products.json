@@ -37,6 +37,13 @@
       "displayName": "Hoa khai trương",
       "image": "",
       "icon_html": ""
+    },
+    {
+      "id": "cat-hoasinhnhat",
+      "name": "Hoa sinh nhật",
+      "displayName": "Hoa sinh nhật",
+      "image": "",
+      "icon_html": ""
     }
   ],
   "products": [
@@ -834,26 +841,6 @@
       "id": 159,
       "type": "Hoa khai trương",
       "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783517949\/hoakhaitruong\/pdgkicgamkqfgjftrkob.webp"
-    },
-    {
-      "id": 160,
-      "type": "Hoa khai trương",
-      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518494\/hoakhaitruong\/ptmknhvxjdrjixel3day.webp"
-    },
-    {
-      "id": 161,
-      "type": "Hoa khai trương",
-      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518499\/hoakhaitruong\/xlbct757tbg0zkk36zhg.webp"
-    },
-    {
-      "id": 162,
-      "type": "Hoa khai trương",
-      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518503\/hoakhaitruong\/vwtclp7nwcgnetzco6hg.webp"
-    },
-    {
-      "id": 163,
-      "type": "Hoa khai trương",
-      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518509\/hoakhaitruong\/bj242yfhi0ipxoiq3vha.webp"
     }
   ]
 }
