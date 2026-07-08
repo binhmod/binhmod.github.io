@@ -37,27 +37,6 @@
       "displayName": "Hoa khai trương",
       "image": "",
       "icon_html": ""
-    },
-    {
-      "id": "cat-hoasinhnhat",
-      "name": "Hoa sinh nhật",
-      "displayName": "Hoa sinh nhật",
-      "image": "",
-      "icon_html": ""
-    },
-    {
-      "id": "cat-hoacuoi",
-      "name": "Hoa cưới",
-      "displayName": "Hoa cưới",
-      "image": "",
-      "icon_html": ""
-    },
-    {
-      "id": "cat-xehoacuoi",
-      "name": "Xe hoa cưới",
-      "displayName": "Xe hoa cưới",
-      "image": "",
-      "icon_html": ""
     }
   ],
   "products": [
@@ -855,6 +834,101 @@
       "id": 159,
       "type": "Hoa khai trương",
       "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783517949\/hoakhaitruong\/pdgkicgamkqfgjftrkob.webp"
+    },
+    {
+      "id": 160,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518494\/hoakhaitruong\/ptmknhvxjdrjixel3day.webp"
+    },
+    {
+      "id": 161,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518499\/hoakhaitruong\/xlbct757tbg0zkk36zhg.webp"
+    },
+    {
+      "id": 162,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518503\/hoakhaitruong\/vwtclp7nwcgnetzco6hg.webp"
+    },
+    {
+      "id": 163,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518509\/hoakhaitruong\/bj242yfhi0ipxoiq3vha.webp"
+    },
+    {
+      "id": 164,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518517\/hoakhaitruong\/va2w6jwjngmxrl4elzzy.webp"
+    },
+    {
+      "id": 165,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518523\/hoakhaitruong\/g5ufxvzhiiejcucbpkrb.webp"
+    },
+    {
+      "id": 166,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518531\/hoakhaitruong\/bzlluatb7cfb9lubpvn3.webp"
+    },
+    {
+      "id": 167,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518547\/hoakhaitruong\/lwekdhrlbi7qa5nqocpu.webp"
+    },
+    {
+      "id": 168,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518553\/hoakhaitruong\/o5xeyfdc3h6qhtov0yo3.webp"
+    },
+    {
+      "id": 169,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518560\/hoakhaitruong\/nf3r0dl4ftutswcrkbfv.webp"
+    },
+    {
+      "id": 170,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518565\/hoakhaitruong\/xk8kiot7ytq7mbwwv1gn.webp"
+    },
+    {
+      "id": 171,
+      "type": "Hoa khai trương",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518569\/hoakhaitruong\/ugcinrvgg6f4nscbbsqw.webp"
+    },
+    {
+      "id": 172,
+      "type": "Hoa sinh nhật",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518575\/hoasinhnhat\/ha2f8mlx12wnncqzkxv6.webp"
+    },
+    {
+      "id": 173,
+      "type": "Hoa sinh nhật",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518581\/hoasinhnhat\/rwwgqeoxgdfnlwkbzfl5.webp"
+    },
+    {
+      "id": 174,
+      "type": "Hoa sinh nhật",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518586\/hoasinhnhat\/oocav4iakrcrsuyphtwd.webp"
+    },
+    {
+      "id": 175,
+      "type": "Hoa sinh nhật",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518591\/hoasinhnhat\/wyy7nfabpun1xjq6ddot.webp"
+    },
+    {
+      "id": 176,
+      "type": "Hoa sinh nhật",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518595\/hoasinhnhat\/aklcev1rnyo2fxwk2ur1.webp"
+    },
+    {
+      "id": 177,
+      "type": "Hoa sinh nhật",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518602\/hoasinhnhat\/yw0adomwdse1rorv76pb.webp"
+    },
+    {
+      "id": 178,
+      "type": "Hoa sinh nhật",
+      "image": "https:\/\/res.cloudinary.com\/dpljns4w0\/image\/upload\/v1783518612\/hoasinhnhat\/oodmtw8oo668xhovatib.webp"
     }
   ]
 }
